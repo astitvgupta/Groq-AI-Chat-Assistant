@@ -71,5 +71,6 @@ streamlit run app.py
 5. **View Stats:** Check the sidebar for conversation stats.
 
 **For Virtual Env. Activation:** .\env\Scripts\Activate.ps1
+<br>
 **For Streamlit App Running:** streamlit run main.py
 
