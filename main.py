@@ -137,11 +137,11 @@ def main():
         st.write("")
 
     # User input section
-    st.markdown("### ✉︎ Your Message")
+    # st.markdown("#### ✉︎ Your Message")
     user_question = st.text_area(
         "",
-        height= 68,
-        placeholder= "Type your message here... (Shift + Enter to send)",
+        height= 70,
+        placeholder= "Type your query...",
         key= "user_input",
         help= "Type your message and press Shift + Enter or click the Send button"
     )
