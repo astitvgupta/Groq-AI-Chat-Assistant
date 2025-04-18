@@ -63,14 +63,12 @@ GROQ_API_KEY = your_api_key
 streamlit run app.py
 ```
 
+**For Virtual Env. Activation:** .\env\Scripts\Activate.ps1
+**For Streamlit App Running:** streamlit run main.py
+
 ## Usage
 1. **Model & Persona Selection:** Choose an AI model and persona from the sidebar.
 2. **Memory Configuration:** Set how many previous messages the chatbot should remember.
 3. **Chat:** Type your messages and engage with the assistant in real time.
 4. **Clear Chat & New Topics:** Clear the chat history or start a new topic as needed.
 5. **View Stats:** Check the sidebar for conversation stats.
-
-**For Virtual Env. Activation:** .\env\Scripts\Activate.ps1
-<br>
-**For Streamlit App Running:** streamlit run main.py
-
